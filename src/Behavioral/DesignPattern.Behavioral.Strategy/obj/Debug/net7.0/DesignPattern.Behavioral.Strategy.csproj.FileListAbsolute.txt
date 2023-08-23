@@ -1,0 +1,15 @@
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.Strategy\bin\Debug\net7.0\DesignPattern.Behavioral.Strategy.exe
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.Strategy\bin\Debug\net7.0\DesignPattern.Behavioral.Strategy.deps.json
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.Strategy\bin\Debug\net7.0\DesignPattern.Behavioral.Strategy.runtimeconfig.json
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.Strategy\bin\Debug\net7.0\DesignPattern.Behavioral.Strategy.dll
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.Strategy\bin\Debug\net7.0\DesignPattern.Behavioral.Strategy.pdb
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.Strategy\obj\Debug\net7.0\DesignPattern.Behavioral.Strategy.csproj.AssemblyReference.cache
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.Strategy\obj\Debug\net7.0\DesignPattern.Behavioral.Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.Strategy\obj\Debug\net7.0\DesignPattern.Behavioral.Strategy.AssemblyInfoInputs.cache
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.Strategy\obj\Debug\net7.0\DesignPattern.Behavioral.Strategy.AssemblyInfo.cs
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.Strategy\obj\Debug\net7.0\DesignPattern.Behavioral.Strategy.csproj.CoreCompileInputs.cache
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.Strategy\obj\Debug\net7.0\DesignPattern.Behavioral.Strategy.dll
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.Strategy\obj\Debug\net7.0\refint\DesignPattern.Behavioral.Strategy.dll
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.Strategy\obj\Debug\net7.0\DesignPattern.Behavioral.Strategy.pdb
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.Strategy\obj\Debug\net7.0\DesignPattern.Behavioral.Strategy.genruntimeconfig.cache
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.Strategy\obj\Debug\net7.0\ref\DesignPattern.Behavioral.Strategy.dll

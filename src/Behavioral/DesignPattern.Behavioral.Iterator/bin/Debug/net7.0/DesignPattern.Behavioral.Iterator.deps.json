@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DesignPattern.Behavioral.Iterator/1.0.0": {
+        "runtime": {
+          "DesignPattern.Behavioral.Iterator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignPattern.Behavioral.Iterator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.State\bin\Debug\net7.0\DesignPattern.Behavioral.State.exe
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.State\bin\Debug\net7.0\DesignPattern.Behavioral.State.deps.json
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.State\bin\Debug\net7.0\DesignPattern.Behavioral.State.runtimeconfig.json
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.State\bin\Debug\net7.0\DesignPattern.Behavioral.State.dll
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.State\bin\Debug\net7.0\DesignPattern.Behavioral.State.pdb
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.State\obj\Debug\net7.0\DesignPattern.Behavioral.State.csproj.AssemblyReference.cache
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.State\obj\Debug\net7.0\DesignPattern.Behavioral.State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.State\obj\Debug\net7.0\DesignPattern.Behavioral.State.AssemblyInfoInputs.cache
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.State\obj\Debug\net7.0\DesignPattern.Behavioral.State.AssemblyInfo.cs
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.State\obj\Debug\net7.0\DesignPattern.Behavioral.State.csproj.CoreCompileInputs.cache
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.State\obj\Debug\net7.0\DesignPattern.Behavioral.State.dll
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.State\obj\Debug\net7.0\refint\DesignPattern.Behavioral.State.dll
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.State\obj\Debug\net7.0\DesignPattern.Behavioral.State.pdb
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.State\obj\Debug\net7.0\DesignPattern.Behavioral.State.genruntimeconfig.cache
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Behavioral.State\obj\Debug\net7.0\ref\DesignPattern.Behavioral.State.dll
