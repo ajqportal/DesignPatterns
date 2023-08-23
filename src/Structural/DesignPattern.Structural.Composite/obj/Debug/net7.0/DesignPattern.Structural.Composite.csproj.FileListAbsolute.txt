@@ -1,0 +1,15 @@
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Composite\bin\Debug\net7.0\DesignPattern.Structural.Composite.exe
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Composite\bin\Debug\net7.0\DesignPattern.Structural.Composite.deps.json
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Composite\bin\Debug\net7.0\DesignPattern.Structural.Composite.runtimeconfig.json
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Composite\bin\Debug\net7.0\DesignPattern.Structural.Composite.dll
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Composite\bin\Debug\net7.0\DesignPattern.Structural.Composite.pdb
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Composite\obj\Debug\net7.0\DesignPattern.Structural.Composite.csproj.AssemblyReference.cache
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Composite\obj\Debug\net7.0\DesignPattern.Structural.Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Composite\obj\Debug\net7.0\DesignPattern.Structural.Composite.AssemblyInfoInputs.cache
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Composite\obj\Debug\net7.0\DesignPattern.Structural.Composite.AssemblyInfo.cs
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Composite\obj\Debug\net7.0\DesignPattern.Structural.Composite.csproj.CoreCompileInputs.cache
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Composite\obj\Debug\net7.0\DesignPattern.Structural.Composite.dll
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Composite\obj\Debug\net7.0\refint\DesignPattern.Structural.Composite.dll
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Composite\obj\Debug\net7.0\DesignPattern.Structural.Composite.pdb
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Composite\obj\Debug\net7.0\DesignPattern.Structural.Composite.genruntimeconfig.cache
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Composite\obj\Debug\net7.0\ref\DesignPattern.Structural.Composite.dll

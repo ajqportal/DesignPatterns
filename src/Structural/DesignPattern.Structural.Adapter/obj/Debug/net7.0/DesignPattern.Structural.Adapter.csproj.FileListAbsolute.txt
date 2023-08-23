@@ -1,0 +1,17 @@
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Adapter\bin\Debug\net7.0\DesignPattern.Structural.Adapter.exe
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Adapter\bin\Debug\net7.0\DesignPattern.Structural.Adapter.deps.json
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Adapter\bin\Debug\net7.0\DesignPattern.Structural.Adapter.runtimeconfig.json
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Adapter\bin\Debug\net7.0\DesignPattern.Structural.Adapter.dll
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Adapter\bin\Debug\net7.0\DesignPattern.Structural.Adapter.pdb
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Adapter\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Adapter\obj\Debug\net7.0\DesignPattern.Structural.Adapter.csproj.AssemblyReference.cache
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Adapter\obj\Debug\net7.0\DesignPattern.Structural.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Adapter\obj\Debug\net7.0\DesignPattern.Structural.Adapter.AssemblyInfoInputs.cache
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Adapter\obj\Debug\net7.0\DesignPattern.Structural.Adapter.AssemblyInfo.cs
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Adapter\obj\Debug\net7.0\DesignPattern.Structural.Adapter.csproj.CoreCompileInputs.cache
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Adapter\obj\Debug\net7.0\DesignPattern.Structural.Adapter.csproj.CopyComplete
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Adapter\obj\Debug\net7.0\DesignPattern.Structural.Adapter.dll
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Adapter\obj\Debug\net7.0\refint\DesignPattern.Structural.Adapter.dll
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Adapter\obj\Debug\net7.0\DesignPattern.Structural.Adapter.pdb
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Adapter\obj\Debug\net7.0\DesignPattern.Structural.Adapter.genruntimeconfig.cache
+C:\Practice\Design Patterns\DesignPatterns\src\Structural\DesignPattern.Structural.Adapter\obj\Debug\net7.0\ref\DesignPattern.Structural.Adapter.dll

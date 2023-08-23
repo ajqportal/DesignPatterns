@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AqqJcTJvKmyS390LCzwRrZBxTMcNZMUNTqjyORDIwE1Xvhl2h6qqeG3M93py+219AdAMHDNAk0MDbugn3B4I+g==",
+  "success": true,
+  "projectFilePath": "C:\\Practice\\Design Patterns\\DesignPatterns\\src\\Structural\\DesignPattern.Structural.Adapter\\DesignPattern.Structural.Adapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alvin.quezon\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
