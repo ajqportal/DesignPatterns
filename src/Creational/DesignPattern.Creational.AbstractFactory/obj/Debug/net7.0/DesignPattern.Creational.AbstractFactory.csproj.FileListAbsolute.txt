@@ -1,0 +1,15 @@
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Creational.AbstractFactory\bin\Debug\net7.0\DesignPattern.Creational.AbstractFactory.exe
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Creational.AbstractFactory\bin\Debug\net7.0\DesignPattern.Creational.AbstractFactory.deps.json
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Creational.AbstractFactory\bin\Debug\net7.0\DesignPattern.Creational.AbstractFactory.runtimeconfig.json
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Creational.AbstractFactory\bin\Debug\net7.0\DesignPattern.Creational.AbstractFactory.dll
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Creational.AbstractFactory\bin\Debug\net7.0\DesignPattern.Creational.AbstractFactory.pdb
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Creational.AbstractFactory\obj\Debug\net7.0\DesignPattern.Creational.AbstractFactory.csproj.AssemblyReference.cache
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Creational.AbstractFactory\obj\Debug\net7.0\DesignPattern.Creational.AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Creational.AbstractFactory\obj\Debug\net7.0\DesignPattern.Creational.AbstractFactory.AssemblyInfoInputs.cache
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Creational.AbstractFactory\obj\Debug\net7.0\DesignPattern.Creational.AbstractFactory.AssemblyInfo.cs
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Creational.AbstractFactory\obj\Debug\net7.0\DesignPattern.Creational.AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Creational.AbstractFactory\obj\Debug\net7.0\DesignPattern.Creational.AbstractFactory.dll
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Creational.AbstractFactory\obj\Debug\net7.0\refint\DesignPattern.Creational.AbstractFactory.dll
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Creational.AbstractFactory\obj\Debug\net7.0\DesignPattern.Creational.AbstractFactory.pdb
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Creational.AbstractFactory\obj\Debug\net7.0\DesignPattern.Creational.AbstractFactory.genruntimeconfig.cache
+C:\Practice\Design Patterns\DesignPatterns\DesignPattern.Creational.AbstractFactory\obj\Debug\net7.0\ref\DesignPattern.Creational.AbstractFactory.dll
