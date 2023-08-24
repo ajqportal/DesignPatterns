@@ -29,3 +29,17 @@ src/Creational/DesignPattern.Creational.Builder/bin/
 src/Creational/DesignPattern.Creational.FactoryMethod/bin/
 src/Creational/DesignPattern.Creational.Prototype/bin/
 src/Creational/DesignPattern.Creational.Singleton/bin/
+src/Structural/DesignPattern.Structural.Adapter/bin/
+src/Structural/DesignPattern.Structural.Adapter/obj/
+src/Structural/DesignPattern.Structural.Bridge/bin/
+src/Structural/DesignPattern.Structural.Bridge/obj/
+src/Structural/DesignPattern.Structural.Composite/bin/
+src/Structural/DesignPattern.Structural.Composite/obj/
+src/Structural/DesignPattern.Structural.Decorator/bin/
+src/Structural/DesignPattern.Structural.Decorator/obj/
+src/Structural/DesignPattern.Structural.Facade/bin/
+src/Structural/DesignPattern.Structural.Facade/obj/
+src/Structural/DesignPattern.Structural.Flyweight/bin/
+src/Structural/DesignPattern.Structural.Flyweight/obj/
+src/Structural/DesignPattern.Structural.Proxy/bin/
+src/Structural/DesignPattern.Structural.Proxy/obj/
