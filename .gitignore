@@ -19,3 +19,13 @@ src/Behavioral/DesignPattern.Behavioral.State/bin/
 src/Behavioral/DesignPattern.Behavioral.Strategy/bin/
 src/Behavioral/DesignPattern.Behavioral.TemplateMethod/bin/
 src/Behavioral/DesignPattern.Behavioral.Visitor/bin/
+src/Creational/DesignPattern.Creational.AbstractFactory/obj/
+src/Creational/DesignPattern.Creational.Builder/obj/
+src/Creational/DesignPattern.Creational.FactoryMethod/obj/
+src/Creational/DesignPattern.Creational.Prototype/obj/
+src/Creational/DesignPattern.Creational.Singleton/obj/
+src/Creational/DesignPattern.Creational.AbstractFactory/bin/
+src/Creational/DesignPattern.Creational.Builder/bin/
+src/Creational/DesignPattern.Creational.FactoryMethod/bin/
+src/Creational/DesignPattern.Creational.Prototype/bin/
+src/Creational/DesignPattern.Creational.Singleton/bin/
