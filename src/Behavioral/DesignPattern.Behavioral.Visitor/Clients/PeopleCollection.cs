@@ -2,7 +2,7 @@
 
 namespace DesignPattern.Behavioral.Visitor.Clients
 {
-    internal class PeopleClient
+    internal class PeopleCollection
     {
         private List<IPersonElement> _people = new List<IPersonElement>();
 

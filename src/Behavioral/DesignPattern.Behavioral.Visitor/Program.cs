@@ -9,7 +9,7 @@ EmailVisitor emailVisitor = new EmailVisitor();
 Person person1 = new Person("Alice");
 Person person2 = new Person("Bob");
 
-PeopleClient peopleCollection = new PeopleClient();
+PeopleCollection peopleCollection = new PeopleCollection();
 peopleCollection.AddPerson(person1);
 peopleCollection.AddPerson(person2);
 
