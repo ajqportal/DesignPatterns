@@ -2,6 +2,7 @@
 src/Behavioral/DesignPattern.Behavioral.ChainOfResponsibility/obj/
 src/Behavioral/DesignPattern.Behavioral.Command/obj/
 src/Behavioral/DesignPattern.Behavioral.Iterator/obj/
+src/Behavioral/DesignPattern.Behavioral.Interpreter/obj/
 src/Behavioral/DesignPattern.Behavioral.Mediator/obj/
 src/Behavioral/DesignPattern.Behavioral.Memento/obj/
 src/Behavioral/DesignPattern.Behavioral.Observer/obj/
@@ -12,6 +13,7 @@ src/Behavioral/DesignPattern.Behavioral.Visitor/obj/
 src/Behavioral/DesignPattern.Behavioral.ChainOfResponsibility/bin/
 src/Behavioral/DesignPattern.Behavioral.Command/bin/
 src/Behavioral/DesignPattern.Behavioral.Iterator/bin/
+src/Behavioral/DesignPattern.Behavioral.Interpreter/bin/
 src/Behavioral/DesignPattern.Behavioral.Mediator/bin/
 src/Behavioral/DesignPattern.Behavioral.Memento/bin/
 src/Behavioral/DesignPattern.Behavioral.Observer/bin/
@@ -43,5 +45,3 @@ src/Structural/DesignPattern.Structural.Flyweight/bin/
 src/Structural/DesignPattern.Structural.Flyweight/obj/
 src/Structural/DesignPattern.Structural.Proxy/bin/
 src/Structural/DesignPattern.Structural.Proxy/obj/
-DesignPattern.Behavioral.Interpreter/bin/
-DesignPattern.Behavioral.Interpreter/obj/
