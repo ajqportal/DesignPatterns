@@ -43,3 +43,5 @@ src/Structural/DesignPattern.Structural.Flyweight/bin/
 src/Structural/DesignPattern.Structural.Flyweight/obj/
 src/Structural/DesignPattern.Structural.Proxy/bin/
 src/Structural/DesignPattern.Structural.Proxy/obj/
+DesignPattern.Behavioral.Interpreter/bin/
+DesignPattern.Behavioral.Interpreter/obj/

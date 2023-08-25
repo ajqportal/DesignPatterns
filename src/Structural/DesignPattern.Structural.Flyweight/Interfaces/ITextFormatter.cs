@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DesignPattern.Structural.Flyweight.Interfaces
+﻿namespace DesignPattern.Structural.Flyweight.Interfaces
 {
     internal interface ITextFormatter
     {
